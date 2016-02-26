@@ -7,6 +7,6 @@ public class BostaDeMacaco {
 	}
 
 	public void setA(int a) {
-		A = a;
+		A = 10;
 	}
 }
